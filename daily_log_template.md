@@ -1,3 +1,5 @@
+# Daily Template
+
 ## Medicine
 
 
