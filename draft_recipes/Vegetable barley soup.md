@@ -1,6 +1,6 @@
 ---
 created: 2022-04-04T08:57:10-04:00
-modified: 2022-04-04T11:10:53-04:00
+modified: 2022-04-04T11:46:05-04:00
 ---
 
 # Vegetable barley soup
@@ -28,6 +28,6 @@ Heat oil in Instant Pot on saute mode. Cook garlic and onion until translucent.
 Add carrot, pepper, celery, edamame beans, and barley. Give it a quick mix.
 Season with thyme, salt, and pepper.
 Finally, add water, vegetable stock or chicken stock and mix well.
-Put the lid and cook the soup on manual high pressure for 20 min. Quick release the pressure manually once cooking is over.
+Put the lid and cook the soup on manual high pressure for 25 min. Quick release the pressure manually once cooking is over.
 Add more seasonings and lime juice if needed.
 Lastly, add chopped cilantro to garnish. Serve warm
