@@ -1,6 +1,6 @@
 ---
 created: 2022-04-04T08:57:10-04:00
-modified: 2022-04-04T08:59:36-04:00
+modified: 2022-04-04T11:10:53-04:00
 ---
 
 # Vegetable barley soup
@@ -13,7 +13,7 @@ Ingredients
 1 tsp  cooking oil
 1 medium onion diced
 2-3 garlic cloves finely chopped
-1 carrot peeled and diced
+2 carrot peeled and diced
 1/2 red pepper diced (or more)
 2 small celery stalks diced
 1 1/2 cup edamame beans.
