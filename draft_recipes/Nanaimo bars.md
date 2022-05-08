@@ -1,6 +1,6 @@
 ---
 created: 2022-05-08T08:41:12-04:00
-modified: 2022-05-08T08:49:12-04:00
+modified: 2022-05-08T08:51:06-04:00
 ---
 
 # Nanaimo bars
@@ -8,11 +8,17 @@ modified: 2022-05-08T08:49:12-04:00
 ## Crust
 
 ½ cup butter, unsalted
+
 ▢½ cup cocoa powder
+
 ▢1/2 cup sugar
+
 ▢1 egg, whisked
+
 ▢1 ½ cup graham cracker crumbs
+
 ▢¾ cup coconut, shredded, unsweetened
+
 ▢¼ cup pecans, finely chopped
 
 Line a square baking dish with parchment paper so that the parchment paper overhangs the edges. Cut two long rectangular pieces of parchment paper and overlap them. The overhang will be used to pull the bars out of the tray for easier slicing. For thicker bars use an 8×8 inch dish, for thinner bars use a 9×9 inch dish.
