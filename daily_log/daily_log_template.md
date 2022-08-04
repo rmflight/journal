@@ -6,16 +6,22 @@
 
 12:30 - multivitamin 
 
+19:00 - ibuprofen, acetaminophen 
+
 
 ## Pain
 
 07:30 - left shoulder, left neck
+
+19:00 - hips, knees, legs
 
 
 ## Feeling
 
 
 ## Exercises
+
+15:30 - acupuncture 
 
 
 ## Activity
