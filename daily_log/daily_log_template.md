@@ -1,4 +1,4 @@
-# Daily Template
+# 2022-08-04
 
 ## Medicine
 
