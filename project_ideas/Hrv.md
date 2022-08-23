@@ -1,6 +1,6 @@
 ---
 created: 2022-08-22T22:29:32-04:00
-modified: 2022-08-22T23:33:46-04:00
+modified: 2022-08-22T23:34:30-04:00
 ---
 
 # Hrv
@@ -23,3 +23,5 @@ Blocks of styrofoam for passageway.
 Heat exchange via a baffle of aluminum sheeting, bent to create many folds over distance, but still slow air to move.
 
 Cut into foam, and then seal aluminum into the cuts to provide air tight seal.
+
+Foam ks naturally insulating. Angle to provide drainage of any condensation again.
